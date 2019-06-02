@@ -3,7 +3,9 @@
 > An electron-vue project
 
 
-Screenshots
+-------
+
+
 <img src="./res/Screenshot_1.png" width="590" height="343" />
 <img src="./res/Screenshot_2.png" width="590" height="343" />
 <img src="./res/Screenshot_3.png" width="590" height="343" />
