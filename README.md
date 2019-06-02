@@ -1,4 +1,4 @@
-# Test-app
+# Electron Vue Demo App-2
 
 > An electron-vue project
 
