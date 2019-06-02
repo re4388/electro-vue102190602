@@ -3,7 +3,7 @@
 > An electron-vue project
 
 
-
+<img src="./res/Screenshot_1.png" width="200" height="400" />
 ![](./res/Screenshot_1.png | width=100)
 ![](./res/Screenshot_2.png | width=100)
 ![](./res/Screenshot_3.png | width=100)
