@@ -4,9 +4,9 @@
 
 
 
-![](./res/Screenshot_1.png)
-![](./res/Screenshot_2.png)
-![](./res/Screenshot_3.png)
+![](./res/Screenshot_1.png | width=100)
+![](./res/Screenshot_2.png | width=100)
+![](./res/Screenshot_3.png | width=100)
 
 
 
